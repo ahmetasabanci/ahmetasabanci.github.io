@@ -4,6 +4,13 @@
 
 @charset "utf-8";
 
+$muted-text-color: #3f3f3f !default;
+$primary-color: #238197 !default;
+$link-color: #DE8859 !default;
+$masthead-link-color: $link-color !default;
+$masthead-link-color-hover: mix(#fff, $link-color, 80%) !default;
+$navicon-link-color-hover: mix(#fff, $link-color, 80%) !default;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
@@ -11,9 +18,4 @@
 $global-font-family: "Montserrat";
 $header-font-family: "Helvetica Neue";
 $caption-font-family: "Helvetica Neue";
-$muted-text-color: #3f3f3f !default;
-$primary-color: #238197 !default;
-$link-color: #DE8859 !default;
-$masthead-link-color: $link-color !default;
-$masthead-link-color-hover: mix(#fff, $link-color, 80%) !default;
-$navicon-link-color-hover: mix(#fff, $link-color, 80%) !default;
+
