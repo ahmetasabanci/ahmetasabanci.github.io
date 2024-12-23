@@ -7,15 +7,22 @@
 $muted-text-color: #3f3f3f !default;
 $primary-color: #238197 !default;
 $link-color: #DE8859 !default;
-$masthead-link-color: $link-color !default;
-$masthead-link-color-hover: mix(#fff, $link-color, 80%) !default;
-$navicon-link-color-hover: mix(#fff, $link-color, 80%) !default;
+$masthead-link-color: $primary-color !default;
+$masthead-link-color-hover: mix(#fff, $primary-color, 20%) !default;
+$navicon-link-color-hover: mix(#fff, $link-color, 20%) !default;
+$global-font-family: "Montserrat";
+$header-font-family: "Helvetica Neue";
+$caption-font-family: "Helvetica Neue";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
 // custom CSS here
-$global-font-family: "Montserrat";
-$header-font-family: "Helvetica Neue";
-$caption-font-family: "Helvetica Neue";
+
+a,
+h1,
+h2,
+h3 { 
+    color: #238197; 
+}
 
