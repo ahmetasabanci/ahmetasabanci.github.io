@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Tuhaf Studio is an independent forersight and futures studio run by Ahmet Alphan Sabancı. One of the main projects developed under the Tuhaf Studio is called [Tuhaf Gelecek](https://tuhafgelecek.com), a creative outlet to improve futures literacy in Turkey.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+You can find more about Ahmet Alphan Sabancı [here](https://ahmetasabanci.com). 
+
+If you want to work with Tuhaf Studio, you can reach out by sending an email to ahmet@tuhaf.studio or [ask for a coffee meeting](https://fantastical.app/ahmet/30min-meeting) to talk about what we can do together.
