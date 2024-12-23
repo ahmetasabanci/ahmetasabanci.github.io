@@ -11,8 +11,8 @@ $masthead-link-color: $primary-color !default;
 $masthead-link-color-hover: mix(#fff, $primary-color, 20%) !default;
 $navicon-link-color-hover: mix(#fff, $link-color, 20%) !default;
 $global-font-family: "Montserrat";
-$header-font-family: "Helvetica Neue";
-$caption-font-family: "Helvetica Neue";
+$header-font-family: "Helvetica";
+$caption-font-family: "Helvetica";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
