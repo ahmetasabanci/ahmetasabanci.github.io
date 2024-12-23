@@ -1,0 +1,20 @@
+---
+#Only the main Sass file needs front matter
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// custom CSS here
+$global-font-family: 'Montserrat';
+$header-font-family: 'Helvetica Neue';
+$caption-font-family: 'Helvetica Neue';
+
+$muted-text-color: #3f3f3f !default;
+$primary-color: #238197 !default;
+$link-color: #DE8859 !default;
+$masthead-link-color: $link-color !default;
+$masthead-link-color-hover: mix(#fff, $link-color, 80%) !default;
+$navicon-link-color-hover: mix(#fff, $link-color, 80%) !default;
