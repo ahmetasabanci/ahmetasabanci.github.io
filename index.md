@@ -3,7 +3,7 @@ permalink: /
 title: "Home"
 ---
 
-Tuhaf Studio is an independent forersight and futures studio run by Ahmet Alphan Sabancı. One of the main projects developed under the Tuhaf Studio is called [Tuhaf Gelecek](https://tuhafgelecek.com), a creative outlet to improve futures literacy in Turkey.
+Tuhaf Studio is an independent foresight and futures studio run by Ahmet Alphan Sabancı. One of the main projects developed under the Tuhaf Studio is called [Tuhaf Gelecek](https://tuhafgelecek.com), a creative outlet to improve futures literacy in Turkey.
 
 You can find more about Ahmet Alphan Sabancı [here](https://ahmetasabanci.com). 
 
